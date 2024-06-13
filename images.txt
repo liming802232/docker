@@ -1,6 +1,2 @@
-alpine
-python:alpine3.19
+whyour/qinglong:latest
 kasmweb/nginx:1.25.3
-vaultwarden/server:latest
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
